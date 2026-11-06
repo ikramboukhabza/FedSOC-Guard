@@ -20,4 +20,5 @@ labels, et les analystes SOC sont submergés d'alertes.
 - MITRE ATT&CK : https://attack.mitre.org/
 
 ## Équipe
-Noms des membres du groupe
+Ikram Boukhabza 
+Fatima El Ouazzani Thami 
